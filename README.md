@@ -1,3 +1,10 @@
+
+# I made a todoapp in this repository by using react.
+
+You can see live demo [here](https://admirable-caramel-29bebb.netlify.app/)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
